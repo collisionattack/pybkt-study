@@ -6,7 +6,7 @@ The Cognitive Tutor dataset can be downloaded from:
 https://raw.githubusercontent.com/CAHLR/pyBKT−examples/master/data/ct.csv
 
 
-To download the dataset within the code, you can simply use the following line:
+### To download the dataset within the code, you can simply use the following line:
 
 ```python
 model.fetch_dataset('https://raw.githubusercontent.com/CAHLR/pyBKT-examples/master/data/ct.csv', '.')
