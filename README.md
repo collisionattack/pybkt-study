@@ -5,5 +5,13 @@ The codes in the article are replicated here with some changes for personal stud
 The Cognitive Tutor dataset can be downloaded from: 
 https://raw.githubusercontent.com/CAHLR/pyBKT−examples/master/data/ct.csv
 
+
+To download the dataset within the code, you can simply use the following line:
+
+```python
+model.fetch_dataset('https://raw.githubusercontent.com/CAHLR/pyBKT-examples/master/data/ct.csv', '.')
+```
+
+
 The Google Colab link can be accessed from: 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gUwOesQ60u7vXj8-b5tnkaw36S83ywoi?usp=sharing)
