@@ -1,4 +1,4 @@
-The codes here are almost the exact copies from the article "An Introduction to Bayesian Knowledge Tracing with pyBKT" by Okan Bulut, Jinnie Shin, Seyma N. Yildirim-Erbasli, Guher Gorgun and Zachary A. Pardos. 
+The codes here are almost the exact replicates from the article "An Introduction to Bayesian Knowledge Tracing with pyBKT" by Okan Bulut, Jinnie Shin, Seyma N. Yildirim-Erbasli, Guher Gorgun and Zachary A. Pardos. 
 
 The codes in the article are replicated here with some changes for personal studies. 
 
